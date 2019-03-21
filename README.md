@@ -6,4 +6,4 @@
 | **Fix**: |  remove broken confirmation message
 | **Refactor**: |  logic in commit 06021983 between line number xx and xx  
 | **Test**: | make sure that Unittest .. is working 
-| **Study Update **: | programming lesson in tech stack ..., .... completed
+| **Study Update**: | programming lesson in tech stack ..., .... completed
